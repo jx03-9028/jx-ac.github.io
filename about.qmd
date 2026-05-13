@@ -4,6 +4,10 @@ title: "About"
 
 About this site
 
+{{< video path/to/video.mp4 width="600" height="400" >}}
+{{< video https://www.youtube.com/watch?v=rphrFDf00mk width="600" height="400" >}}
+
+
 ```{r}
 1 + 1
 ```
