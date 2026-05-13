@@ -4,7 +4,10 @@ project:
 
 website:
   title: "temp_website"
+  favicon: favicon.png
+  
   navbar:
+    logo: logo.png
     left:
       - href: index.qmd
         text: Home
@@ -17,6 +20,9 @@ format:
       - brand
     css: styles.css
     toc: true
+    toc-depth: 3
+    toc-location: left
 
-
+{{< video path/to/video.mp4 width="600" height="400" >}}
+{{< video https://www.youtube.com/watch?v=rphrFDf00mk width="600" height="400" >}}
 
