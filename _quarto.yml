@@ -23,6 +23,4 @@ format:
     toc-depth: 3
     toc-location: left
 
-{{< video path/to/video.mp4 width="600" height="400" >}}
-{{< video https://www.youtube.com/watch?v=rphrFDf00mk width="600" height="400" >}}
 
